@@ -13,6 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>cicd-maven-sample</name>
     <description>cicd-maven-sample</description>
+         <package>war</package>
     <properties>
         <java.version>11</java.version>
     </properties>
